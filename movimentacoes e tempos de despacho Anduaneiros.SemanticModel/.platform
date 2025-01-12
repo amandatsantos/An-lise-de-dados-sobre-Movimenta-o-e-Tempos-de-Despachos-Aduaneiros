@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "movimentacoes e tempos de despacho Anduaneiros"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "09a8979e-bc2d-485f-b091-cbe1e9fdea21"
+  }
+}

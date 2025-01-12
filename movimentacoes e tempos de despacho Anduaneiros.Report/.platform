@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "movimentacoes e tempos de despacho Anduaneiros"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "eb5351ce-396a-4910-9f05-0b9ddc2ef282"
+  }
+}
